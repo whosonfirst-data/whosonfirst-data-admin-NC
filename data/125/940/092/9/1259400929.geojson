@@ -1,0 +1,61 @@
+{
+  "id": 1259400929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.05,-20.1,164.05,-20.1",
+    "geom:latitude":-20.1,
+    "geom:longitude":164.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Olane",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139473,
+    "gn:latitude":-20.1,
+    "gn:longitude":164.05,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Olane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139473
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"53ef7ec0e8108309f82a74b52e8f6ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259400929,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259400929,
+    "wof:lastmodified":1536976719,
+    "wof:name":"Olane",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.05,
+    -20.1,
+    164.05,
+    -20.1
+],
+  "geometry": {"coordinates":[164.05000000000001,-20.1],"type":"Point"}
+}

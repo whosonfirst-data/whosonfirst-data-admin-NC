@@ -1,0 +1,61 @@
+{
+  "id": 1193147141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.38333,-20.93333,165.38333,-20.93333",
+    "geom:latitude":-20.93333,
+    "geom:longitude":165.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tibarama",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138046,
+    "gn:latitude":-20.93333,
+    "gn:longitude":165.38333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Tibarama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138046
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"ad4e9e6e556c662546de55aaf08e6403",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193147141,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193147141,
+    "wof:lastmodified":1536382167,
+    "wof:name":"Tibarama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.38333,
+    -20.93333,
+    165.38333,
+    -20.93333
+],
+  "geometry": {"coordinates":[165.38333,-20.93333],"type":"Point"}
+}

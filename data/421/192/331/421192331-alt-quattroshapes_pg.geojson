@@ -1,0 +1,16 @@
+{
+  "id": 421192331,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-nc",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"9201ba50b29b334d3ffe4017267c5910",
+    "wof:id":421192331
+},
+  "bbox": [
+    0.31416,
+    45.8007,
+    0.31416,
+    45.8007
+],
+  "geometry": {"coordinates":[0.31416,45.8007],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209120645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.33333,-20.53333,164.33333,-20.53333",
+    "geom:latitude":-20.53333,
+    "geom:longitude":164.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koum",
+    "gn:country_code":"NC",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140561,
+    "gn:latitude":-20.53333,
+    "gn:longitude":164.33333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Koum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140561
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"6b93b18142e9521444529543dd61f9b2",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209120645
+        }
+    ],
+    "wof:id":1209120645,
+    "wof:lastmodified":1536297110,
+    "wof:name":"Koum",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.33333000000005,
+    -20.53333,
+    164.33333000000005,
+    -20.53333
+],
+  "geometry": {"coordinates":[164.33333000000005,-20.53333],"type":"Point"}
+}

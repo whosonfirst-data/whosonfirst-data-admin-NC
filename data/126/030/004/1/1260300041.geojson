@@ -1,0 +1,68 @@
+{
+  "id": 1260300041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.71667,-21.5,165.71667,-21.5",
+    "geom:latitude":-21.5,
+    "geom:longitude":165.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Oueroupime",
+    "gn:country_code":"NC",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139152,
+    "gn:latitude":-21.5,
+    "gn:longitude":165.71667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Ou\u00e9roupim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139152
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"b04df8e4044accf73c2ec901fe5d24b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1260300041,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1260300041,
+    "wof:lastmodified":1536689730,
+    "wof:name":"Oueroupime",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.71667,
+    -21.5,
+    165.71667,
+    -21.5
+],
+  "geometry": {"coordinates":[165.71666999999999,-21.5],"type":"Point"}
+}

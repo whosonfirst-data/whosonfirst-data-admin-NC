@@ -1,0 +1,68 @@
+{
+  "id": 1293302613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.43333,-21.06667,167.43333,-21.06667",
+    "geom:latitude":-21.06667,
+    "geom:longitude":167.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Natae",
+    "gn:country_code":"NC",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139921,
+    "gn:latitude":-21.06667,
+    "gn:longitude":167.43333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Nata\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139921
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"9e56d439fb77f0231a7a763d10cde129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1293302613,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":1293302613,
+    "wof:lastmodified":1537051279,
+    "wof:name":"Natae",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.43333,
+    -21.06667,
+    167.43333,
+    -21.06667
+],
+  "geometry": {"coordinates":[167.43333000000001,-21.06667],"type":"Point"}
+}

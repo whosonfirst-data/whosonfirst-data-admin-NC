@@ -1,0 +1,61 @@
+{
+  "id": 1226252761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.9,-21.6,167.9,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":167.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Keziene",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140773,
+    "gn:latitude":-21.6,
+    "gn:longitude":167.9,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"K\u00e9zi\u00e8n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140773
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"95a9e0d77bf0aa897b1d69f1bb248090",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226252761,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226252761,
+    "wof:lastmodified":1536924137,
+    "wof:name":"Keziene",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.9,
+    -21.6,
+    167.9,
+    -21.6
+],
+  "geometry": {"coordinates":[167.90000000000001,-21.6],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1209329593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.46556,-21.61383,165.46556,-21.61383",
+    "geom:latitude":-21.61383,
+    "geom:longitude":165.46556,
+    "gn:asciiname":"La Roche Percee",
+    "gn:country_code":"NC",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10862053,
+    "gn:latitude":-21.61383,
+    "gn:longitude":165.46556,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"La Roche Percee",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862053
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"5393f620cde5854124d155505f556d69",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209329593
+        }
+    ],
+    "wof:id":1209329593,
+    "wof:lastmodified":1536290415,
+    "wof:name":"La Roche Percee",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.46556,
+    -21.61383,
+    165.46556,
+    -21.61383
+],
+  "geometry": {"coordinates":[165.46556000000001,-21.61383],"type":"Point"}
+}

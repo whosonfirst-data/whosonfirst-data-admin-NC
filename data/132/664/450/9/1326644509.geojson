@@ -1,0 +1,73 @@
+{
+  "id": 1326644509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.68333,-20.66667,164.68333,-20.66667",
+    "geom:latitude":-20.66667,
+    "geom:longitude":164.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ouyaguette",
+    "gn:cc2":"NC",
+    "gn:country_code":"NC",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139028,
+    "gn:latitude":-20.66667,
+    "gn:longitude":164.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouyaguette",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouayaguette",
+        "Ouyaguette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139028
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"c75b541f214ef04ae03f8b850cb277ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1326644509,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1326644509,
+    "wof:lastmodified":1537674643,
+    "wof:name":"Ouyaguette",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.68333,
+    -20.66667,
+    164.68333,
+    -20.66667
+],
+  "geometry": {"coordinates":[164.68333000000001,-20.66667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293505727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.11667,-21.13333,165.11667,-21.13333",
+    "geom:latitude":-21.13333,
+    "geom:longitude":165.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Foret Plate",
+    "gn:country_code":"NC",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141274,
+    "gn:latitude":-21.13333,
+    "gn:longitude":165.11667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"For\u00eat Plate",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141274
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"58db73c4d3d35fe4ab4d15d878251362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1293505727,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1293505727,
+    "wof:lastmodified":1536760958,
+    "wof:name":"Foret Plate",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.11667,
+    -21.13333,
+    165.11667,
+    -21.13333
+],
+  "geometry": {"coordinates":[165.11667,-21.13333],"type":"Point"}
+}

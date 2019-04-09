@@ -1,0 +1,61 @@
+{
+  "id": 1209530369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"163.66667,-19.73333,163.66667,-19.73333",
+    "geom:latitude":-19.73333,
+    "geom:longitude":163.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bweo",
+    "gn:country_code":"NC",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141672,
+    "gn:latitude":-19.73333,
+    "gn:longitude":163.66667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Bw\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141672
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"01e169b9baf984007591f5ca50a4737c",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209530369
+        }
+    ],
+    "wof:id":1209530369,
+    "wof:lastmodified":1536284299,
+    "wof:name":"Bweo",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    163.66666999999995,
+    -19.73333,
+    163.66666999999995,
+    -19.73333
+],
+  "geometry": {"coordinates":[163.66666999999995,-19.73333],"type":"Point"}
+}

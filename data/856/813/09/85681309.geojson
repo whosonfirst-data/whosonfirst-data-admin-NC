@@ -1,0 +1,80 @@
+{
+  "id": 85681309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1514430.245253,
+    "geom:bbox":"158.312998894,-22.4001652865,172.059338565,-19.8543433566",
+    "geom:latitude":-20.346274,
+    "geom:longitude":160.898958,
+    "iso:country":"NC",
+    "lbl:latitude":-19.864295,
+    "lbl:longitude":158.322395,
+    "mps:latitude":-19.864295,
+    "mps:longitude":158.322395,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Minor islands of New Caledonia"
+    ],
+    "qs:a0":"New Caledonia",
+    "qs:a0_lc":"NC",
+    "qs:a1_lc":"NCL+99?",
+    "qs:adm0":"New Caledonia",
+    "qs:adm0_a3":"NCL",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 minor island",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632473,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NC",
+    "wof:geomhash":"c6d44589aa320dd23335b5e1d8fa7920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "region_id":85681309
+        }
+    ],
+    "wof:id":85681309,
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1536173679,
+    "wof:name":"Minor islands of New Caledonia",
+    "wof:parent_id":85632473,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    158.31299889378397,
+    -22.40016528649875,
+    172.0593385653226,
+    -19.85434335656061
+],
+  "geometry": {"coordinates":[[[[172.05933856532261,-22.39779504050864],[172.05723168039776,-22.40016528649875],[172.05433471317656,-22.39726832017681],[172.05644159810129,-22.39463471312149],[172.05933856532261,-22.39779504050864]]],[[[171.34376528743815,-22.34634159768655],[171.34192176177999,-22.34923856490781],[171.33902479545804,-22.3476584021135],[171.34060495915162,-22.34476143489223],[171.34376528743815,-22.34634159768655]]],[[[158.3257755872736,-19.86305103957375],[158.33285566465725,-19.87363046717229],[158.32089277398245,-19.86760833065989],[158.31299889378397,-19.85540130012987],[158.31535891987835,-19.85434335656061],[158.3257755872736,-19.86305103957375]]]],"type":"MultiPolygon"}
+}

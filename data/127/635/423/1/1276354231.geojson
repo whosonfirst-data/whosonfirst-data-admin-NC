@@ -1,0 +1,68 @@
+{
+  "id": 1276354231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.51667,-21.48333,165.51667,-21.48333",
+    "geom:latitude":-21.48333,
+    "geom:longitude":165.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Haute Poueo",
+    "gn:country_code":"NC",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141062,
+    "gn:latitude":-21.48333,
+    "gn:longitude":165.51667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Haute Pou\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675259,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141062
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"37a46d295e00b0f9670d34b4f541db3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1276354231,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":1276354231,
+    "wof:lastmodified":1536750452,
+    "wof:name":"Haute Poueo",
+    "wof:parent_id":85675259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.51667,
+    -21.48333,
+    165.51667,
+    -21.48333
+],
+  "geometry": {"coordinates":[165.51667,-21.48333],"type":"Point"}
+}

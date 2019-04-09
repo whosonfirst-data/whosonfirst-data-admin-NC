@@ -1,0 +1,73 @@
+{
+  "id": 1310024081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.25,-20.85,165.25,-20.85",
+    "geom:latitude":-20.85,
+    "geom:longitude":165.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kokengone",
+    "gn:cc2":"NC",
+    "gn:country_code":"NC",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140716,
+    "gn:latitude":-20.85,
+    "gn:longitude":165.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kokengone",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokingon\u00e9",
+        "Kokengone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140716
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"481348870574660666b127f738642525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1310024081,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1310024081,
+    "wof:lastmodified":1537674645,
+    "wof:name":"Kokengone",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.25,
+    -20.85,
+    165.25,
+    -20.85
+],
+  "geometry": {"coordinates":[165.25,-20.85],"type":"Point"}
+}

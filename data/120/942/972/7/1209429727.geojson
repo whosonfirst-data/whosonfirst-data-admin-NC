@@ -1,0 +1,61 @@
+{
+  "id": 1209429727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.0,-21.46667,168.0,-21.46667",
+    "geom:latitude":-21.46667,
+    "geom:longitude":168.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hnaenede",
+    "gn:country_code":"NC",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141030,
+    "gn:latitude":-21.46667,
+    "gn:longitude":168.0,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Hna\u00e9n\u00e9de",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141030
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"a665f74daa87e4ea62b5f573f805c6d1",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209429727
+        }
+    ],
+    "wof:id":1209429727,
+    "wof:lastmodified":1536287271,
+    "wof:name":"Hnaenede",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.0,
+    -21.46667,
+    168.0,
+    -21.46667
+],
+  "geometry": {"coordinates":[168.0,-21.46667],"type":"Point"}
+}

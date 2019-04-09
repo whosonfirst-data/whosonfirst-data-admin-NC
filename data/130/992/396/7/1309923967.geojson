@@ -1,0 +1,68 @@
+{
+  "id": 1309923967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.26667,-20.78333,167.26667,-20.78333",
+    "geom:latitude":-20.78333,
+    "geom:longitude":167.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Papale",
+    "gn:country_code":"NC",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138914,
+    "gn:latitude":-20.78333,
+    "gn:longitude":167.26667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Papal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138914
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"2d37527f0ea735d42775c29cce52e78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1309923967,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":1309923967,
+    "wof:lastmodified":1536760993,
+    "wof:name":"Papale",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.26667,
+    -20.78333,
+    167.26667,
+    -20.78333
+],
+  "geometry": {"coordinates":[167.26667,-20.78333],"type":"Point"}
+}

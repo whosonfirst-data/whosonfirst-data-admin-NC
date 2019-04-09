@@ -1,0 +1,61 @@
+{
+  "id": 1343976227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.1,-20.3,164.1,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":164.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pabou",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139013,
+    "gn:latitude":-20.3,
+    "gn:longitude":164.1,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Pabou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139013
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"78017573e2fad9ff9aa0d287650e0473",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343976227,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343976227,
+    "wof:lastmodified":1536996492,
+    "wof:name":"Pabou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.1,
+    -20.3,
+    164.1,
+    -20.3
+],
+  "geometry": {"coordinates":[164.09999999999999,-20.3],"type":"Point"}
+}

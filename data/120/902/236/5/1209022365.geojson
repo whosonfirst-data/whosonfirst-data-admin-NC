@@ -1,0 +1,61 @@
+{
+  "id": 1209022365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.56667,-21.31667,165.56667,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":165.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boeareu",
+    "gn:country_code":"NC",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141850,
+    "gn:latitude":-21.31667,
+    "gn:longitude":165.56667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Bo\u00e9areu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141850
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"6a7abb435fa74a9abb6ab45a858c3072",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209022365
+        }
+    ],
+    "wof:id":1209022365,
+    "wof:lastmodified":1536300108,
+    "wof:name":"Boeareu",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.56667,
+    -21.31667,
+    165.56667,
+    -21.31667
+],
+  "geometry": {"coordinates":[165.56666999999999,-21.31667],"type":"Point"}
+}

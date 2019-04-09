@@ -1,0 +1,73 @@
+{
+  "id": 1276137753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.95,-21.46667,167.95,-21.46667",
+    "geom:latitude":-21.46667,
+    "geom:longitude":167.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Limite",
+    "gn:cc2":"NC",
+    "gn:country_code":"NC",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140388,
+    "gn:latitude":-21.46667,
+    "gn:longitude":167.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Limite",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaewaura",
+        "Limite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140388
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"b7fbd3150943569b18f0e850284ebd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1276137753,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":1276137753,
+    "wof:lastmodified":1537674645,
+    "wof:name":"Limite",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.95,
+    -21.46667,
+    167.95,
+    -21.46667
+],
+  "geometry": {"coordinates":[167.94999999999999,-21.46667],"type":"Point"}
+}

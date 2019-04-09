@@ -1,0 +1,66 @@
+{
+  "id": 1209433173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.86667,-21.71667,165.86667,-21.71667",
+    "geom:latitude":-21.71667,
+    "geom:longitude":165.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pierra",
+    "gn:cc2":"NC",
+    "gn:country_code":"NC",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138814,
+    "gn:latitude":-21.71667,
+    "gn:longitude":165.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pierra",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pierrat",
+        "Pierra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138814
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"59db9ffa06d84e0db14fb0da12a6d20e",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209433173
+        }
+    ],
+    "wof:id":1209433173,
+    "wof:lastmodified":1537674643,
+    "wof:name":"Pierra",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.86667,
+    -21.71667,
+    165.86667,
+    -21.71667
+],
+  "geometry": {"coordinates":[165.86667,-21.71667],"type":"Point"}
+}

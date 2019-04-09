@@ -1,0 +1,61 @@
+{
+  "id": 1293210537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.95,-21.61667,167.95,-21.61667",
+    "geom:latitude":-21.61667,
+    "geom:longitude":167.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Medu",
+    "gn:country_code":"NC",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140246,
+    "gn:latitude":-21.61667,
+    "gn:longitude":167.95,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"M\u00e9du",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140246
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"62f0cf35c29e46df553ace6fb41eea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293210537,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293210537,
+    "wof:lastmodified":1536689322,
+    "wof:name":"Medu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.95,
+    -21.61667000000001,
+    167.95,
+    -21.61667000000001
+],
+  "geometry": {"coordinates":[167.94999999999999,-21.61667000000001],"type":"Point"}
+}

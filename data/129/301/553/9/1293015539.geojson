@@ -1,0 +1,68 @@
+{
+  "id": 1293015539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.26667,-20.95,165.26667,-20.95",
+    "geom:latitude":-20.95,
+    "geom:longitude":165.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saint-Paul",
+    "gn:country_code":"NC",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138388,
+    "gn:latitude":-20.95,
+    "gn:longitude":165.26667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Saint-Paul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138388
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"7b20901e4a29cf0d88a8a4114cc6f9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1293015539,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1293015539,
+    "wof:lastmodified":1536970025,
+    "wof:name":"Saint-Paul",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.26667,
+    -20.95,
+    165.26667,
+    -20.95
+],
+  "geometry": {"coordinates":[165.26667,-20.95],"type":"Point"}
+}

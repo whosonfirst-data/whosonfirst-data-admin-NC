@@ -1,0 +1,68 @@
+{
+  "id": 1293901807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.5,-22.2,166.5,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":166.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yahoue",
+    "gn:country_code":"NC",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137666,
+    "gn:latitude":-22.2,
+    "gn:longitude":166.5,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Yahou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675259,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137666
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"72072b68f116fe10add513c16e911f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1293901807,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":1293901807,
+    "wof:lastmodified":1536686982,
+    "wof:name":"Yahoue",
+    "wof:parent_id":85675259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.5,
+    -22.2,
+    166.5,
+    -22.2
+],
+  "geometry": {"coordinates":[166.5,-22.2],"type":"Point"}
+}

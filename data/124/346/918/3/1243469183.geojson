@@ -1,0 +1,68 @@
+{
+  "id": 1243469183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.38333,-20.68333,164.38333,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":164.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tregon",
+    "gn:country_code":"NC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137847,
+    "gn:latitude":-20.68333,
+    "gn:longitude":164.38333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Tr\u00e9gon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137847
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"0d56afa67f0d055f35efa7bb0de2aa3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1243469183,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1243469183,
+    "wof:lastmodified":1536773327,
+    "wof:name":"Tregon",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.38333,
+    -20.68333,
+    164.38333,
+    -20.68333
+],
+  "geometry": {"coordinates":[164.38333,-20.68333],"type":"Point"}
+}

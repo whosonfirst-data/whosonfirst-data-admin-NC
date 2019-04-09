@@ -1,0 +1,70 @@
+{
+  "id": 421185395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.1,-20.76667,167.1,-20.76667",
+    "geom:latitude":-20.76667,
+    "geom:longitude":167.1,
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2140978,
+    "qs:gn_pop":0,
+    "qs:name":"Hunet\u00e9",
+    "qs:name_adm0":"Nouvelle-Cal\u00e9donie",
+    "qs:name_adm1":"Loyaute",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894719,
+    "qs:woe_adm0":23424903,
+    "qs:woe_id":1049680,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140978,
+        "gp:id":1049680,
+        "qs:id":894719
+    },
+    "wof:country":"NC",
+    "wof:created":1459009442,
+    "wof:geomhash":"beddfe1fd882ef1b6765444cf394e6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421185395,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421185395,
+    "wof:lastmodified":1506729015,
+    "wof:name":"Hunet\u00e9",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.1,
+    -20.76667,
+    167.1,
+    -20.76667
+],
+  "geometry": {"coordinates":[167.09999999999999,-20.76667],"type":"Point"}
+}

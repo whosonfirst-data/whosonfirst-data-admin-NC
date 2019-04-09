@@ -1,0 +1,68 @@
+{
+  "id": 1360194501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.7,-20.46667,164.7,-20.46667",
+    "geom:latitude":-20.46667,
+    "geom:longitude":164.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paalo",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139016,
+    "gn:latitude":-20.46667,
+    "gn:longitude":164.7,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Paalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139016
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"63b826455b2761bb0b69d7c594c4f7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1360194501,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1360194501,
+    "wof:lastmodified":1536788189,
+    "wof:name":"Paalo",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.7,
+    -20.46667,
+    164.7,
+    -20.46667
+],
+  "geometry": {"coordinates":[164.69999999999999,-20.46667],"type":"Point"}
+}

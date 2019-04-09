@@ -1,0 +1,69 @@
+{
+  "id": 1276348651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.57582,-22.23127,166.57582,-22.23127",
+    "geom:latitude":-22.23127,
+    "geom:longitude":166.57582,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"98817.0",
+    "gn:asciiname":"La Coulee",
+    "gn:country_code":"NC",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140471,
+    "gn:latitude":-22.23127,
+    "gn:longitude":166.57582,
+    "gn:modification_date":"2017-01-10",
+    "gn:name":"La Coul\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675259,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140471
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"a381b2e1f82d9b1ad17d3f24bf151e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1276348651,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":1276348651,
+    "wof:lastmodified":1536758026,
+    "wof:name":"La Coulee",
+    "wof:parent_id":85675259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.57582,
+    -22.23127,
+    166.57582,
+    -22.23127
+],
+  "geometry": {"coordinates":[166.57581999999999,-22.23127],"type":"Point"}
+}

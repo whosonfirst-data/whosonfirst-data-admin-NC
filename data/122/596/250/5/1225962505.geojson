@@ -1,0 +1,68 @@
+{
+  "id": 1225962505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.88333,-20.68333,164.88333,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":164.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pouiembeng",
+    "gn:country_code":"NC",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138567,
+    "gn:latitude":-20.68333,
+    "gn:longitude":164.88333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Pouiembeng",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138567
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"6991699a8e10b15b51981a9bb20b52d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1225962505,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1225962505,
+    "wof:lastmodified":1536844047,
+    "wof:name":"Pouiembeng",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.88333,
+    -20.68333,
+    164.88333,
+    -20.68333
+],
+  "geometry": {"coordinates":[164.88333,-20.68333],"type":"Point"}
+}

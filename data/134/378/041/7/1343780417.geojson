@@ -1,0 +1,68 @@
+{
+  "id": 1343780417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.70956,-21.49602,165.70956,-21.49602",
+    "geom:latitude":-21.49602,
+    "geom:longitude":165.70956,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konoe-Chaoue",
+    "gn:country_code":"NC",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140669,
+    "gn:latitude":-21.49602,
+    "gn:longitude":165.70956,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Kono\u00e9-Chaou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140669
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"33fe3c02527b9e8d1aa2e6dd189e7c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1343780417,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1343780417,
+    "wof:lastmodified":1536782689,
+    "wof:name":"Konoe-Chaoue",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.70956,
+    -21.49602,
+    165.70956,
+    -21.49602
+],
+  "geometry": {"coordinates":[165.70956000000001,-21.49602],"type":"Point"}
+}

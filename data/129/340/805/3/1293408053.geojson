@@ -1,0 +1,67 @@
+{
+  "id": 1293408053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.48926,-20.69408,166.48926,-20.69408",
+    "geom:latitude":-20.69408,
+    "geom:longitude":166.48926,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lekine",
+    "gn:cc2":"NC",
+    "gn:country_code":"NC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140428,
+    "gn:latitude":-20.69408,
+    "gn:longitude":166.48926,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"L\u00e9kine",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lekia",
+        "Lekin",
+        "L\u00e9kine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140428
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"68c7ba10942a82a43170959b39b8812e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293408053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293408053,
+    "wof:lastmodified":1537674645,
+    "wof:name":"Lekine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.48926,
+    -20.69408,
+    166.48926,
+    -20.69408
+],
+  "geometry": {"coordinates":[166.48926,-20.69408],"type":"Point"}
+}

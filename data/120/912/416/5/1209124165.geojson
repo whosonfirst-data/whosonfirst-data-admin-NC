@@ -1,0 +1,61 @@
+{
+  "id": 1209124165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.41667,-20.65,164.41667,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":164.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ouende",
+    "gn:country_code":"NC",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139220,
+    "gn:latitude":-20.65,
+    "gn:longitude":164.41667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Ouend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139220
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"a6d11d3aee651bd94cfc37210f556650",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209124165
+        }
+    ],
+    "wof:id":1209124165,
+    "wof:lastmodified":1536297007,
+    "wof:name":"Ouende",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.41666999999995,
+    -20.65,
+    164.41666999999995,
+    -20.65
+],
+  "geometry": {"coordinates":[164.41666999999995,-20.65],"type":"Point"}
+}

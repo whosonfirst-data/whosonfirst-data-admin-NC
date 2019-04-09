@@ -1,0 +1,68 @@
+{
+  "id": 1343377221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.11667,-20.3,164.11667,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":164.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Malabou",
+    "gn:country_code":"NC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140343,
+    "gn:latitude":-20.3,
+    "gn:longitude":164.11667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Malabou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140343
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"9e94ec735d94853c639adddfd673d1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1343377221,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1343377221,
+    "wof:lastmodified":1536864985,
+    "wof:name":"Malabou",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.11667,
+    -20.3,
+    164.11667,
+    -20.3
+],
+  "geometry": {"coordinates":[164.11667,-20.3],"type":"Point"}
+}

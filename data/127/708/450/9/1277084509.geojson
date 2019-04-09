@@ -1,0 +1,72 @@
+{
+  "id": 1277084509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.96667,-21.45,167.96667,-21.45",
+    "geom:latitude":-21.45,
+    "geom:longitude":167.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Menaku",
+    "gn:country_code":"NC",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2140217,
+    "gn:latitude":-21.45,
+    "gn:longitude":167.96667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"M\u00e9naku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9naku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2140217,
+        "wk:page":"Menaku"
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"ce6c29bafeafa06b42d9f6c650326ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1277084509,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":1277084509,
+    "wof:lastmodified":1537674645,
+    "wof:name":"Menaku",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.96667,
+    -21.45,
+    167.96667,
+    -21.45
+],
+  "geometry": {"coordinates":[167.96666999999999,-21.45],"type":"Point"}
+}

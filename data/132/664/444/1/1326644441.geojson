@@ -1,0 +1,61 @@
+{
+  "id": 1326644441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.46733,-20.70622,166.46733,-20.70622",
+    "geom:latitude":-20.70622,
+    "geom:longitude":166.46733,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fayawa",
+    "gn:country_code":"NC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141302,
+    "gn:latitude":-20.70622,
+    "gn:longitude":166.46733,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Fayawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141302
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"7fe1469689de5d62f7b512b0297f0e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326644441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326644441,
+    "wof:lastmodified":1536821304,
+    "wof:name":"Fayawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.46733,
+    -20.70622,
+    166.46733,
+    -20.70622
+],
+  "geometry": {"coordinates":[166.46733,-20.70622],"type":"Point"}
+}

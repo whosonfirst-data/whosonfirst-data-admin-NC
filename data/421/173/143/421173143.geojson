@@ -1,0 +1,83 @@
+{
+  "id": 421173143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.48333,-22.66667,167.48333,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":167.48333,
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Upuaite"
+    ],
+    "qs:gn_country":"NC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2137773,
+    "qs:gn_pop":1862,
+    "qs:name":"Vao",
+    "qs:name_adm0":"Nouvelle-Cal\u00e9donie",
+    "qs:name_adm1":"Sud",
+    "qs:photos":1326,
+    "qs:photos_1k":269,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1326,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":492645,
+    "qs:woe_adm0":23424903,
+    "qs:woe_id":1049648,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632473,
+        85675259,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137773,
+        "gp:id":1049648,
+        "qs:id":492645
+    },
+    "wof:country":"NC",
+    "wof:created":1459008972,
+    "wof:geomhash":"522d69b180a88fba2517492c115623d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":421173143,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":421173143,
+    "wof:lastmodified":1509998383,
+    "wof:name":"Vao",
+    "wof:parent_id":85675259,
+    "wof:placetype":"locality",
+    "wof:population":1862,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.48333,
+    -22.66667,
+    167.48333,
+    -22.66667
+],
+  "geometry": {"coordinates":[167.48333,-22.66667],"type":"Point"}
+}

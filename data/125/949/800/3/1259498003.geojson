@@ -1,0 +1,68 @@
+{
+  "id": 1259498003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.53333,-20.53333,164.53333,-20.53333",
+    "geom:latitude":-20.53333,
+    "geom:longitude":164.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ouene",
+    "gn:country_code":"NC",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139204,
+    "gn:latitude":-20.53333,
+    "gn:longitude":164.53333,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Ou\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675261,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139204
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"acf33cfb8989ebf0397d742c84f1573c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1259498003,
+            "region_id":85675261
+        }
+    ],
+    "wof:id":1259498003,
+    "wof:lastmodified":1536836837,
+    "wof:name":"Ouene",
+    "wof:parent_id":85675261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.53333,
+    -20.53333,
+    164.53333,
+    -20.53333
+],
+  "geometry": {"coordinates":[164.53333000000001,-20.53333],"type":"Point"}
+}

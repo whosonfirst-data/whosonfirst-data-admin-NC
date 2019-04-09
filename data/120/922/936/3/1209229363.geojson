@@ -1,0 +1,61 @@
+{
+  "id": 1209229363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"164.91667,-21.0,164.91667,-21.0",
+    "geom:latitude":-21.0,
+    "geom:longitude":164.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tiaoue",
+    "gn:country_code":"NC",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2138066,
+    "gn:latitude":-21.0,
+    "gn:longitude":164.91667,
+    "gn:modification_date":"1994-01-04",
+    "gn:name":"Tiaou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2138066
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"52ac208388b77355886880dbaecab0eb",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209229363
+        }
+    ],
+    "wof:id":1209229363,
+    "wof:lastmodified":1536293687,
+    "wof:name":"Tiaoue",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    164.91666999999995,
+    -21.0,
+    164.91666999999995,
+    -21.0
+],
+  "geometry": {"coordinates":[164.91666999999995,-21.0],"type":"Point"}
+}

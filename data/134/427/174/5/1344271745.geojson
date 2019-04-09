@@ -1,0 +1,68 @@
+{
+  "id": 1344271745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.46088,-21.50966,165.46088,-21.50966",
+    "geom:latitude":-21.50966,
+    "geom:longitude":165.46088,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Camp de Nandai",
+    "gn:country_code":"NC",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2139964,
+    "gn:latitude":-21.50966,
+    "gn:longitude":165.46088,
+    "gn:modification_date":"2014-10-07",
+    "gn:name":"Camp de Nanda\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473,
+        85675259,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2139964
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"a94d88374a2dca37c38cbbb70b75a5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1344271745,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":1344271745,
+    "wof:lastmodified":1537064887,
+    "wof:name":"Camp de Nandai",
+    "wof:parent_id":85675259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.46088,
+    -21.50966,
+    165.46088,
+    -21.50966
+],
+  "geometry": {"coordinates":[165.46088,-21.50966],"type":"Point"}
+}

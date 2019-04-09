@@ -1,0 +1,65 @@
+{
+  "id": 1209429721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.08333,-20.93333,167.08333,-20.93333",
+    "geom:latitude":-20.93333,
+    "geom:longitude":167.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Doueoulou",
+    "gn:country_code":"NC",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2141408,
+    "gn:latitude":-20.93333,
+    "gn:longitude":167.08333,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Dou\u00e9oulou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Noumea",
+    "iso:country":"NC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dou\u00e9oulou",
+        "Drueulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2141408
+    },
+    "wof:country":"NC",
+    "wof:geomhash":"c30fdbc8e498b33efd7428589c8bbcae",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632473,
+            "locality_id":1209429721
+        }
+    ],
+    "wof:id":1209429721,
+    "wof:lastmodified":1537674646,
+    "wof:name":"Doueoulou",
+    "wof:parent_id":85632473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.08333000000005,
+    -20.93333,
+    167.08333000000005,
+    -20.93333
+],
+  "geometry": {"coordinates":[167.08333000000005,-20.93333],"type":"Point"}
+}
