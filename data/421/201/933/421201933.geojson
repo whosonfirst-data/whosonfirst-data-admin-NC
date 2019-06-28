@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Thio"
     ],
-    "name:baq_x_preferred":[
-        "Thio"
-    ],
     "name:bar_x_preferred":[
         "Thio"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Thio"
     ],
+    "name:ces_x_preferred":[
+        "Thio"
+    ],
     "name:cos_x_preferred":[
         "Thio"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Thio"
     ],
     "name:dan_x_preferred":[
         "Thio"
     ],
     "name:deu_x_preferred":[
-        "Thio"
-    ],
-    "name:dut_x_preferred":[
         "Thio"
     ],
     "name:eng_x_preferred":[
@@ -61,25 +58,25 @@
     "name:est_x_preferred":[
         "Thio"
     ],
+    "name:eus_x_preferred":[
+        "Thio"
+    ],
     "name:fao_x_preferred":[
         "Thio"
     ],
     "name:fin_x_preferred":[
         "Thio"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Thio"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Thio"
     ],
     "name:frp_x_preferred":[
         "Thio"
     ],
     "name:fur_x_preferred":[
-        "Thio"
-    ],
-    "name:ger_x_preferred":[
         "Thio"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +97,6 @@
     "name:hun_x_preferred":[
         "Thio"
     ],
-    "name:ice_x_preferred":[
-        "Thio"
-    ],
     "name:ido_x_preferred":[
         "Thio"
     ],
@@ -113,6 +107,9 @@
         "Thio"
     ],
     "name:ind_x_preferred":[
+        "Thio"
+    ],
+    "name:isl_x_preferred":[
         "Thio"
     ],
     "name:ita_x_preferred":[
@@ -145,13 +142,13 @@
     "name:ltz_x_preferred":[
         "Thio"
     ],
-    "name:may_x_preferred":[
-        "Thio"
-    ],
     "name:min_x_preferred":[
         "Thio"
     ],
     "name:mlg_x_preferred":[
+        "Thio"
+    ],
+    "name:msa_x_preferred":[
         "Thio"
     ],
     "name:nap_x_preferred":[
@@ -199,7 +196,7 @@
     "name:roh_x_preferred":[
         "Thio"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thio"
     ],
     "name:rus_x_preferred":[
@@ -211,7 +208,7 @@
     "name:sco_x_preferred":[
         "Thio"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Thio"
     ],
     "name:spa_x_preferred":[
@@ -242,9 +239,6 @@
         "Thio"
     ],
     "name:vol_x_preferred":[
-        "Thio"
-    ],
-    "name:wel_x_preferred":[
         "Thio"
     ],
     "name:wln_x_preferred":[
@@ -304,7 +298,7 @@
         }
     ],
     "wof:id":421201933,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1561760055,
     "wof:name":"Thio",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

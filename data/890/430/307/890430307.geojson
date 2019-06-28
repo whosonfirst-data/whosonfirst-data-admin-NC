@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:baq_x_preferred":[
-        "Pa\u00efta"
-    ],
     "name:bar_x_preferred":[
         "Pa\u00efta"
     ],
@@ -39,19 +36,19 @@
     "name:cat_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u4e9e\u5854"
+    "name:ces_x_preferred":[
+        "Pa\u00efta"
     ],
     "name:cos_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Pa\u00efta"
     ],
     "name:dan_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pa\u00efta"
     ],
     "name:eng_x_preferred":[
@@ -63,25 +60,25 @@
     "name:est_x_preferred":[
         "Pa\u00efta"
     ],
+    "name:eus_x_preferred":[
+        "Pa\u00efta"
+    ],
     "name:fao_x_preferred":[
         "Pa\u00efta"
     ],
     "name:fin_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Pa\u00efta"
     ],
     "name:frp_x_preferred":[
         "Pa\u00efta"
     ],
     "name:fur_x_preferred":[
-        "Pa\u00efta"
-    ],
-    "name:ger_x_preferred":[
         "Pa\u00efta"
     ],
     "name:gla_x_preferred":[
@@ -102,9 +99,6 @@
     "name:hun_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:ice_x_preferred":[
-        "Pa\u00efta"
-    ],
     "name:ido_x_preferred":[
         "Pa\u00efta"
     ],
@@ -115,6 +109,9 @@
         "Pa\u00efta"
     ],
     "name:ind_x_preferred":[
+        "Pa\u00efta"
+    ],
+    "name:isl_x_preferred":[
         "Pa\u00efta"
     ],
     "name:ita_x_preferred":[
@@ -153,19 +150,22 @@
     "name:ltz_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:may_x_preferred":[
-        "Pa\u00efta"
-    ],
     "name:min_x_preferred":[
         "Pa\u00efta"
     ],
     "name:mlg_x_preferred":[
         "Pa\u00efta"
     ],
+    "name:msa_x_preferred":[
+        "Pa\u00efta"
+    ],
     "name:nap_x_preferred":[
         "Pa\u00efta"
     ],
     "name:nds_x_preferred":[
+        "Pa\u00efta"
+    ],
+    "name:nld_x_preferred":[
         "Pa\u00efta"
     ],
     "name:nno_x_preferred":[
@@ -204,7 +204,7 @@
     "name:roh_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pa\u00efta"
     ],
     "name:rus_x_preferred":[
@@ -216,7 +216,7 @@
     "name:sco_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pa\u00efta"
     ],
     "name:spa_x_preferred":[
@@ -249,14 +249,14 @@
     "name:vol_x_preferred":[
         "Pa\u00efta"
     ],
-    "name:wel_x_preferred":[
-        "Pa\u00efta"
-    ],
     "name:wln_x_preferred":[
         "Pa\u00efta"
     ],
     "name:wol_x_preferred":[
         "Pa\u00efta"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u4e9e\u5854"
     ],
     "name:zul_x_preferred":[
         "Pa\u00efta"
@@ -295,7 +295,7 @@
         }
     ],
     "wof:id":890430307,
-    "wof:lastmodified":1527729733,
+    "wof:lastmodified":1561760056,
     "wof:name":"Pa\u00efta",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

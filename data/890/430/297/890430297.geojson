@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Pouembout"
     ],
-    "name:baq_x_preferred":[
-        "Pouembout"
-    ],
     "name:bar_x_preferred":[
         "Pouembout"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Pouembout"
     ],
+    "name:ces_x_preferred":[
+        "Pouembout"
+    ],
     "name:cos_x_preferred":[
         "Pouembout"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Pouembout"
     ],
     "name:dan_x_preferred":[
         "Pouembout"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pouembout"
     ],
     "name:eng_x_preferred":[
@@ -60,25 +60,25 @@
     "name:est_x_preferred":[
         "Pouembout"
     ],
+    "name:eus_x_preferred":[
+        "Pouembout"
+    ],
     "name:fao_x_preferred":[
         "Pouembout"
     ],
     "name:fin_x_preferred":[
         "Pouembout"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Pouembout"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Pouembout"
     ],
     "name:frp_x_preferred":[
         "Pouembout"
     ],
     "name:fur_x_preferred":[
-        "Pouembout"
-    ],
-    "name:ger_x_preferred":[
         "Pouembout"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +99,6 @@
     "name:hun_x_preferred":[
         "Pouembout"
     ],
-    "name:ice_x_preferred":[
-        "Pouembout"
-    ],
     "name:ido_x_preferred":[
         "Pouembout"
     ],
@@ -112,6 +109,9 @@
         "Pouembout"
     ],
     "name:ind_x_preferred":[
+        "Pouembout"
+    ],
+    "name:isl_x_preferred":[
         "Pouembout"
     ],
     "name:ita_x_preferred":[
@@ -147,19 +147,22 @@
     "name:ltz_x_preferred":[
         "Pouembout"
     ],
-    "name:may_x_preferred":[
-        "Pouembout"
-    ],
     "name:min_x_preferred":[
         "Pouembout"
     ],
     "name:mlg_x_preferred":[
         "Pouembout"
     ],
+    "name:msa_x_preferred":[
+        "Pouembout"
+    ],
     "name:nap_x_preferred":[
         "Pouembout"
     ],
     "name:nds_x_preferred":[
+        "Pouembout"
+    ],
+    "name:nld_x_preferred":[
         "Pouembout"
     ],
     "name:nno_x_preferred":[
@@ -198,7 +201,7 @@
     "name:roh_x_preferred":[
         "Pouembout"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pouembout"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +213,7 @@
     "name:sco_x_preferred":[
         "Pouembout"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pouembout"
     ],
     "name:spa_x_preferred":[
@@ -244,9 +247,6 @@
         "Pouembout"
     ],
     "name:vol_x_preferred":[
-        "Pouembout"
-    ],
-    "name:wel_x_preferred":[
         "Pouembout"
     ],
     "name:wln_x_preferred":[
@@ -292,7 +292,7 @@
         }
     ],
     "wof:id":890430297,
-    "wof:lastmodified":1527729744,
+    "wof:lastmodified":1561760056,
     "wof:name":"Pouembout",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

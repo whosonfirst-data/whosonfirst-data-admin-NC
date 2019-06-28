@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Moindou"
     ],
-    "name:baq_x_preferred":[
-        "Moindou"
-    ],
     "name:bar_x_preferred":[
         "Moindou"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Moindou"
     ],
+    "name:ces_x_preferred":[
+        "Moindou"
+    ],
     "name:cos_x_preferred":[
         "Moindou"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Moindou"
     ],
     "name:dan_x_preferred":[
         "Moindou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Moindou"
     ],
     "name:eng_x_preferred":[
@@ -60,25 +60,25 @@
     "name:est_x_preferred":[
         "Moindou"
     ],
+    "name:eus_x_preferred":[
+        "Moindou"
+    ],
     "name:fao_x_preferred":[
         "Moindou"
     ],
     "name:fin_x_preferred":[
         "Moindou"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Moindou"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Moindou"
     ],
     "name:frp_x_preferred":[
         "Moindou"
     ],
     "name:fur_x_preferred":[
-        "Moindou"
-    ],
-    "name:ger_x_preferred":[
         "Moindou"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +99,6 @@
     "name:hun_x_preferred":[
         "Moindou"
     ],
-    "name:ice_x_preferred":[
-        "Moindou"
-    ],
     "name:ido_x_preferred":[
         "Moindou"
     ],
@@ -112,6 +109,9 @@
         "Moindou"
     ],
     "name:ind_x_preferred":[
+        "Moindou"
+    ],
+    "name:isl_x_preferred":[
         "Moindou"
     ],
     "name:ita_x_preferred":[
@@ -144,19 +144,22 @@
     "name:ltz_x_preferred":[
         "Moindou"
     ],
-    "name:may_x_preferred":[
-        "Moindou"
-    ],
     "name:min_x_preferred":[
         "Moindou"
     ],
     "name:mlg_x_preferred":[
         "Moindou"
     ],
+    "name:msa_x_preferred":[
+        "Moindou"
+    ],
     "name:nap_x_preferred":[
         "Moindou"
     ],
     "name:nds_x_preferred":[
+        "Moindou"
+    ],
+    "name:nld_x_preferred":[
         "Moindou"
     ],
     "name:nno_x_preferred":[
@@ -195,7 +198,7 @@
     "name:roh_x_preferred":[
         "Moindou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Moindou"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +210,7 @@
     "name:sco_x_preferred":[
         "Moindou"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Moindou"
     ],
     "name:spa_x_preferred":[
@@ -241,9 +244,6 @@
         "Moindou"
     ],
     "name:vol_x_preferred":[
-        "Moindou"
-    ],
-    "name:wel_x_preferred":[
         "Moindou"
     ],
     "name:wln_x_preferred":[
@@ -289,7 +289,7 @@
         }
     ],
     "wof:id":890428957,
-    "wof:lastmodified":1527782117,
+    "wof:lastmodified":1561760056,
     "wof:name":"Moindou",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",
