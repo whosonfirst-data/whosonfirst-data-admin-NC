@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Koumac"
     ],
-    "name:baq_x_preferred":[
-        "Koumac"
-    ],
     "name:bar_x_preferred":[
         "Koumac"
     ],
@@ -49,17 +46,23 @@
     "name:cat_x_preferred":[
         "Koumac"
     ],
+    "name:ces_x_preferred":[
+        "Koumac"
+    ],
     "name:cos_x_preferred":[
         "Koumac"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Koumac"
     ],
     "name:dan_x_preferred":[
         "Koumac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Koumac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bc\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Koumac"
@@ -70,25 +73,25 @@
     "name:est_x_preferred":[
         "Koumac"
     ],
+    "name:eus_x_preferred":[
+        "Koumac"
+    ],
     "name:fao_x_preferred":[
         "Koumac"
     ],
     "name:fin_x_preferred":[
         "Koumac"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Koumac"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Koumac"
     ],
     "name:frp_x_preferred":[
         "Koumac"
     ],
     "name:fur_x_preferred":[
-        "Koumac"
-    ],
-    "name:ger_x_preferred":[
         "Koumac"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "Koumac"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03bc\u03b1\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Koumac"
@@ -118,9 +118,6 @@
     "name:hun_x_preferred":[
         "Koumac"
     ],
-    "name:ice_x_preferred":[
-        "Koumac"
-    ],
     "name:ido_x_preferred":[
         "Koumac"
     ],
@@ -131,6 +128,9 @@
         "Koumac"
     ],
     "name:ind_x_preferred":[
+        "Koumac"
+    ],
+    "name:isl_x_preferred":[
         "Koumac"
     ],
     "name:ita_x_preferred":[
@@ -175,19 +175,22 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u092e\u0947\u0915"
     ],
-    "name:may_x_preferred":[
-        "Koumac"
-    ],
     "name:min_x_preferred":[
         "Koumac"
     ],
     "name:mlg_x_preferred":[
         "Koumac"
     ],
+    "name:msa_x_preferred":[
+        "Koumac"
+    ],
     "name:nap_x_preferred":[
         "Koumac"
     ],
     "name:nds_x_preferred":[
+        "Koumac"
+    ],
+    "name:nld_x_preferred":[
         "Koumac"
     ],
     "name:nno_x_preferred":[
@@ -226,7 +229,7 @@
     "name:roh_x_preferred":[
         "Koumac"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Koumac"
     ],
     "name:rus_x_preferred":[
@@ -241,7 +244,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dde\u0db8\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Koumac"
     ],
     "name:spa_x_preferred":[
@@ -290,9 +293,6 @@
         "Koumac"
     ],
     "name:vol_x_preferred":[
-        "Koumac"
-    ],
-    "name:wel_x_preferred":[
         "Koumac"
     ],
     "name:wln_x_preferred":[
@@ -344,7 +344,7 @@
         }
     ],
     "wof:id":1126011743,
-    "wof:lastmodified":1514491444,
+    "wof:lastmodified":1561760056,
     "wof:name":"Koumac",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

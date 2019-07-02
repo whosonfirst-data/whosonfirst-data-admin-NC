@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:baq_x_preferred":[
-        "Hiengh\u00e8ne"
-    ],
     "name:bar_x_preferred":[
         "Hiengh\u00e8ne"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Hiengh\u00e8ne"
     ],
+    "name:ces_x_preferred":[
+        "Hiengh\u00e8ne"
+    ],
     "name:cos_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:dan_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +64,25 @@
     "name:est_x_preferred":[
         "Hiengh\u00e8ne"
     ],
+    "name:eus_x_preferred":[
+        "Hiengh\u00e8ne"
+    ],
     "name:fao_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:fin_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:frp_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:fur_x_preferred":[
-        "Hiengh\u00e8ne"
-    ],
-    "name:ger_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +103,6 @@
     "name:hun_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:ice_x_preferred":[
-        "Hiengh\u00e8ne"
-    ],
     "name:ido_x_preferred":[
         "Hiengh\u00e8ne"
     ],
@@ -116,6 +113,9 @@
         "Hiengh\u00e8ne"
     ],
     "name:ind_x_preferred":[
+        "Hiengh\u00e8ne"
+    ],
+    "name:isl_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:ita_x_preferred":[
@@ -151,19 +151,22 @@
     "name:ltz_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:may_x_preferred":[
-        "Hiengh\u00e8ne"
-    ],
     "name:min_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:mlg_x_preferred":[
         "Hiengh\u00e8ne"
     ],
+    "name:msa_x_preferred":[
+        "Hiengh\u00e8ne"
+    ],
     "name:nap_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:nds_x_preferred":[
+        "Hiengh\u00e8ne"
+    ],
+    "name:nld_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:nno_x_preferred":[
@@ -202,7 +205,7 @@
     "name:roh_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +217,7 @@
     "name:sco_x_preferred":[
         "Hiengh\u00e8ne"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:spa_x_preferred":[
@@ -248,9 +251,6 @@
         "Hiengh\u00e8ne"
     ],
     "name:vol_x_preferred":[
-        "Hiengh\u00e8ne"
-    ],
-    "name:wel_x_preferred":[
         "Hiengh\u00e8ne"
     ],
     "name:wln_x_preferred":[
@@ -302,7 +302,7 @@
         }
     ],
     "wof:id":1125987703,
-    "wof:lastmodified":1514491440,
+    "wof:lastmodified":1561760056,
     "wof:name":"Hiengh\u00e8ne",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

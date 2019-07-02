@@ -27,9 +27,6 @@
     "name:bam_x_preferred":[
         "Poya"
     ],
-    "name:baq_x_preferred":[
-        "Poya"
-    ],
     "name:bar_x_preferred":[
         "Poya"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Poya"
     ],
+    "name:ces_x_preferred":[
+        "Poya"
+    ],
     "name:cos_x_preferred":[
         "Poya"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Poya"
     ],
     "name:dan_x_preferred":[
         "Poya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Poya"
     ],
     "name:eng_x_preferred":[
@@ -60,25 +60,25 @@
     "name:est_x_preferred":[
         "Poya"
     ],
+    "name:eus_x_preferred":[
+        "Poya"
+    ],
     "name:fao_x_preferred":[
         "Poya"
     ],
     "name:fin_x_preferred":[
         "Poya"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Poya"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Poya"
     ],
     "name:frp_x_preferred":[
         "Poya"
     ],
     "name:fur_x_preferred":[
-        "Poya"
-    ],
-    "name:ger_x_preferred":[
         "Poya"
     ],
     "name:gla_x_preferred":[
@@ -99,9 +99,6 @@
     "name:hun_x_preferred":[
         "Poya"
     ],
-    "name:ice_x_preferred":[
-        "Poya"
-    ],
     "name:ido_x_preferred":[
         "Poya"
     ],
@@ -112,6 +109,9 @@
         "Poya"
     ],
     "name:ind_x_preferred":[
+        "Poya"
+    ],
+    "name:isl_x_preferred":[
         "Poya"
     ],
     "name:ita_x_preferred":[
@@ -144,19 +144,22 @@
     "name:ltz_x_preferred":[
         "Poya"
     ],
-    "name:may_x_preferred":[
-        "Poya"
-    ],
     "name:min_x_preferred":[
         "Poya"
     ],
     "name:mlg_x_preferred":[
         "Poya"
     ],
+    "name:msa_x_preferred":[
+        "Poya"
+    ],
     "name:nap_x_preferred":[
         "Poya"
     ],
     "name:nds_x_preferred":[
+        "Poya"
+    ],
+    "name:nld_x_preferred":[
         "Poya"
     ],
     "name:nno_x_preferred":[
@@ -195,7 +198,7 @@
     "name:roh_x_preferred":[
         "Poya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poya"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +210,7 @@
     "name:sco_x_preferred":[
         "Poya"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Poya"
     ],
     "name:spa_x_preferred":[
@@ -238,9 +241,6 @@
         "Poya"
     ],
     "name:vol_x_preferred":[
-        "Poya"
-    ],
-    "name:wel_x_preferred":[
         "Poya"
     ],
     "name:wln_x_preferred":[
@@ -286,7 +286,7 @@
         }
     ],
     "wof:id":890432123,
-    "wof:lastmodified":1527793042,
+    "wof:lastmodified":1561760056,
     "wof:name":"Poya",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

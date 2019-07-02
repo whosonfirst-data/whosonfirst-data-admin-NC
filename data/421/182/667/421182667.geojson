@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Poum"
     ],
-    "name:baq_x_preferred":[
-        "Poum"
-    ],
     "name:bar_x_preferred":[
         "Poum"
     ],
@@ -37,16 +34,19 @@
     "name:cat_x_preferred":[
         "Poum"
     ],
+    "name:ces_x_preferred":[
+        "Poum"
+    ],
     "name:cos_x_preferred":[
         "Poum"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Poum"
     ],
     "name:dan_x_preferred":[
         "Poum"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Poum"
     ],
     "name:eng_x_preferred":[
@@ -58,25 +58,25 @@
     "name:est_x_preferred":[
         "Poum"
     ],
+    "name:eus_x_preferred":[
+        "Poum"
+    ],
     "name:fao_x_preferred":[
         "Poum"
     ],
     "name:fin_x_preferred":[
         "Poum"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Poum"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Poum"
     ],
     "name:frp_x_preferred":[
         "Poum"
     ],
     "name:fur_x_preferred":[
-        "Poum"
-    ],
-    "name:ger_x_preferred":[
         "Poum"
     ],
     "name:gla_x_preferred":[
@@ -97,9 +97,6 @@
     "name:hun_x_preferred":[
         "Poum"
     ],
-    "name:ice_x_preferred":[
-        "Poum"
-    ],
     "name:ido_x_preferred":[
         "Poum"
     ],
@@ -110,6 +107,9 @@
         "Poum"
     ],
     "name:ind_x_preferred":[
+        "Poum"
+    ],
+    "name:isl_x_preferred":[
         "Poum"
     ],
     "name:ita_x_preferred":[
@@ -145,19 +145,22 @@
     "name:ltz_x_preferred":[
         "Poum"
     ],
-    "name:may_x_preferred":[
-        "Poum"
-    ],
     "name:min_x_preferred":[
         "Poum"
     ],
     "name:mlg_x_preferred":[
         "Poum"
     ],
+    "name:msa_x_preferred":[
+        "Poum"
+    ],
     "name:nap_x_preferred":[
         "Poum"
     ],
     "name:nds_x_preferred":[
+        "Poum"
+    ],
+    "name:nld_x_preferred":[
         "Poum"
     ],
     "name:nno_x_preferred":[
@@ -196,7 +199,7 @@
     "name:roh_x_preferred":[
         "Poum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poum"
     ],
     "name:rus_x_preferred":[
@@ -208,7 +211,7 @@
     "name:sco_x_preferred":[
         "Poum"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Poum"
     ],
     "name:spa_x_preferred":[
@@ -242,9 +245,6 @@
         "Poum"
     ],
     "name:vol_x_preferred":[
-        "Poum"
-    ],
-    "name:wel_x_preferred":[
         "Poum"
     ],
     "name:wln_x_preferred":[
@@ -302,7 +302,7 @@
         }
     ],
     "wof:id":421182667,
-    "wof:lastmodified":1514491530,
+    "wof:lastmodified":1561760055,
     "wof:name":"Poum",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",
