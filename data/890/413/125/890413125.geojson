@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "La Foa"
     ],
+    "name:ceb_x_preferred":[
+        "La Foa"
+    ],
     "name:ces_x_preferred":[
         "La Foa"
     ],
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":890413125,
-    "wof:lastmodified":1561760056,
+    "wof:lastmodified":1563315391,
     "wof:name":"La Foa",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

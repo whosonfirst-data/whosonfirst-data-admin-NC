@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Ou\u00e9goa"
     ],
+    "name:ceb_x_preferred":[
+        "Ou\u00e9goa"
+    ],
     "name:ces_x_preferred":[
         "Ou\u00e9goa"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421200219,
-    "wof:lastmodified":1561760055,
+    "wof:lastmodified":1563315387,
     "wof:name":"Ou\u00e9goa",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

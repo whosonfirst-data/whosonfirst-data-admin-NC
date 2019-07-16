@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Thio"
     ],
+    "name:ceb_x_preferred":[
+        "Thio"
+    ],
     "name:ces_x_preferred":[
         "Thio"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421201933,
-    "wof:lastmodified":1561760055,
+    "wof:lastmodified":1563315387,
     "wof:name":"Thio",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",
