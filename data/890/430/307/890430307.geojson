@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Pa\u00efta"
     ],
+    "name:ceb_x_preferred":[
+        "Pa\u00efta"
+    ],
     "name:ces_x_preferred":[
         "Pa\u00efta"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":890430307,
-    "wof:lastmodified":1561760056,
+    "wof:lastmodified":1563315392,
     "wof:name":"Pa\u00efta",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

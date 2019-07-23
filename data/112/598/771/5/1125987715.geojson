@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Dumb\u00e9a"
     ],
+    "name:ceb_x_preferred":[
+        "Dumb\u00e9a"
+    ],
     "name:ces_x_preferred":[
         "Dumb\u00e9a"
     ],
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":1125987715,
-    "wof:lastmodified":1561760056,
+    "wof:lastmodified":1563315397,
     "wof:name":"Dumb\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

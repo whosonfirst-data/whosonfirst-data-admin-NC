@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Pou\u00e9bo"
     ],
+    "name:ceb_x_preferred":[
+        "Pou\u00e9bo"
+    ],
     "name:ces_x_preferred":[
         "Pou\u00e9bo"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890430299,
-    "wof:lastmodified":1561760056,
+    "wof:lastmodified":1563315393,
     "wof:name":"Pou\u00e9bo",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

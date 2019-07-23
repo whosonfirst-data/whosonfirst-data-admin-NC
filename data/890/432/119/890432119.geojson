@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Touho"
     ],
+    "name:ceb_x_preferred":[
+        "Touho"
+    ],
     "name:ces_x_preferred":[
         "Touho"
     ],
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":890432119,
-    "wof:lastmodified":1561760056,
+    "wof:lastmodified":1563315396,
     "wof:name":"Touho",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",
