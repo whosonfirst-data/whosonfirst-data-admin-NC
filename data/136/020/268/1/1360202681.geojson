@@ -26,6 +26,9 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagarbi baim\u0117"
+    ],
     "name:und_x_variant":[
         "Uala",
         "Aou\u00e9",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360202681,
-    "wof:lastmodified":1537674647,
+    "wof:lastmodified":1564207138,
     "wof:name":"Awe",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

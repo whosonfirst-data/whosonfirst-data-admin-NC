@@ -25,6 +25,12 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saint-Jean-Baptiste"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Jean-Baptiste"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276128445,
-    "wof:lastmodified":1537050922,
+    "wof:lastmodified":1564207100,
     "wof:name":"Saint-Jean-Baptiste",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

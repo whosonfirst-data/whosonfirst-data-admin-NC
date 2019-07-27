@@ -26,6 +26,15 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koua"
+    ],
+    "name:ita_x_preferred":[
+        "Koua"
+    ],
+    "name:msa_x_preferred":[
+        "Koua"
+    ],
     "name:und_x_variant":[
         "Kua",
         "Koua"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310711609,
-    "wof:lastmodified":1537674645,
+    "wof:lastmodified":1564207128,
     "wof:name":"Koua",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toen"
+    ],
+    "name:deu_x_preferred":[
+        "Toen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343680023,
-    "wof:lastmodified":1536927549,
+    "wof:lastmodified":1564207075,
     "wof:name":"Toen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

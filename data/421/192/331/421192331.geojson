@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:als_x_preferred":[
+        "La Roche"
+    ],
     "name:bre_x_preferred":[
+        "La Roche"
+    ],
+    "name:ceb_x_preferred":[
         "La Roche"
     ],
     "name:deu_x_preferred":[
@@ -44,6 +50,9 @@
         "La Roche"
     ],
     "name:ron_x_preferred":[
+        "La Roche"
+    ],
+    "name:swe_x_preferred":[
         "La Roche"
     ],
     "name:unk_x_variant":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421192331,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1564207142,
     "wof:name":"La Roche",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",
