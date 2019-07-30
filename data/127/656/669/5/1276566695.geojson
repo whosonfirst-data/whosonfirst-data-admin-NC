@@ -25,6 +25,18 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wara"
+    ],
+    "name:deu_x_preferred":[
+        "Wara"
+    ],
+    "name:fra_x_preferred":[
+        "Wara"
+    ],
+    "name:swe_x_preferred":[
+        "Wara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276566695,
-    "wof:lastmodified":1536963364,
+    "wof:lastmodified":1564207095,
     "wof:name":"Wara",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

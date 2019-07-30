@@ -25,6 +25,12 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "LO"
+    ],
+    "name:nor_x_preferred":[
+        "LO"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1259701755,
-    "wof:lastmodified":1537039057,
+    "wof:lastmodified":1564207161,
     "wof:name":"Lo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

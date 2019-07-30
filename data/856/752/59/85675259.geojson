@@ -28,6 +28,12 @@
     "name:bos_x_preferred":[
         "Sud"
     ],
+    "name:cat_x_preferred":[
+        "Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "Sud"
+    ],
     "name:ces_x_preferred":[
         "Sud"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0443\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Sud"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NCL",
@@ -187,7 +196,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550482,
+    "wof:lastmodified":1564207081,
     "wof:name":"Sud",
     "wof:parent_id":85632473,
     "wof:placetype":"region",

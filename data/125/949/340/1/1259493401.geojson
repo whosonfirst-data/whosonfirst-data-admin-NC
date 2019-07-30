@@ -26,6 +26,36 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Conception"
+    ],
+    "name:deu_x_preferred":[
+        "Conception"
+    ],
+    "name:fin_x_preferred":[
+        "Conception"
+    ],
+    "name:fra_x_preferred":[
+        "Conception"
+    ],
+    "name:ita_x_preferred":[
+        "Conception"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30bb\u30d7\u30b7\u30e7\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ucee8\uc149\uc158"
+    ],
+    "name:pol_x_preferred":[
+        "Conception"
+    ],
+    "name:spa_x_preferred":[
+        "Conception"
+    ],
+    "name:swe_x_preferred":[
+        "Conception"
+    ],
     "name:und_x_variant":[
         "La Conception",
         "Conception"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1259493401,
-    "wof:lastmodified":1537674646,
+    "wof:lastmodified":1564207165,
     "wof:name":"Conception",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

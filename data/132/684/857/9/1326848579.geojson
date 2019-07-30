@@ -25,6 +25,9 @@
     "iso:country":"NC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Pave"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1326848579,
-    "wof:lastmodified":1537024125,
+    "wof:lastmodified":1564207065,
     "wof:name":"Pave",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
