@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":-20.982171,
     "lbl:longitude":167.219855,
     "mps:latitude":-20.982171,
@@ -145,16 +148,13 @@
         }
     ],
     "wof:id":85675251,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550481,
+    "wof:lastmodified":1565731278,
     "wof:name":"\u00celes Loyaut\u00e9",
     "wof:parent_id":85632473,
     "wof:placetype":"region",

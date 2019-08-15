@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":-20.925151,
     "lbl:longitude":164.961314,
     "mps:latitude":-20.925151,
@@ -241,16 +244,13 @@
         }
     ],
     "wof:id":85675261,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564207080,
+    "wof:lastmodified":1565731278,
     "wof:name":"Nord",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
