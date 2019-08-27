@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"164.54667,-20.38667,164.58667,-20.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473
@@ -34,7 +38,7 @@
         "gn:id":2138401
     },
     "wof:country":"NC",
-    "wof:geomhash":"d87e7fae4a9f7594e8a19d9ed76b7e90",
+    "wof:geomhash":"a318fb83301bf0a02b5cf0e10a2aaf38",
     "wof:hierarchy":[
         {
             "dependency_id":85632473,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530517,
-    "wof:lastmodified":1536284295,
+    "wof:lastmodified":1566647703,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85632473,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     164.56667,
-    -20.366670000000006,
+    -20.36667000000001,
     164.56667,
-    -20.366670000000006
+    -20.36667000000001
 ],
   "geometry": {"coordinates":[164.56666999999999,-20.36667000000001],"type":"Point"}
 }

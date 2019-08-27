@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"167.47082,-22.64542,167.51082,-22.60542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310318135,
-    "wof:lastmodified":1536689731,
+    "wof:lastmodified":1566647717,
     "wof:name":"Yuate Tremwatre",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

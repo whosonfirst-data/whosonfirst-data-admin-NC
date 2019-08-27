@@ -11,11 +11,15 @@
     "geom:longitude":167.88333,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":7492,
+    "gn:population":7492,
     "iso:country":"NC",
+    "lbl:bbox":"167.86333,-21.57,167.90333,-21.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tadinu"
     ],
     "qs:name":"Tadine",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":2138285,
         "gp:id":1049647,
-        "qs:id":278033
+        "qs_pg:id":278033
     },
     "wof:country":"NC",
     "wof:created":1469051929,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432121,
-    "wof:lastmodified":1509998384,
+    "wof:lastmodified":1566647730,
     "wof:name":"Tadine",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

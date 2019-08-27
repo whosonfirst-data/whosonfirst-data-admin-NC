@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"165.08,-21.38667,165.12,-21.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473
@@ -34,7 +38,7 @@
         "gn:id":2139733
     },
     "wof:country":"NC",
-    "wof:geomhash":"51605524a0c139b03a476a386ba67dc4",
+    "wof:geomhash":"38cb94c59dea290f768a54f8337a2a9a",
     "wof:hierarchy":[
         {
             "dependency_id":85632473,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209124289,
-    "wof:lastmodified":1536297003,
+    "wof:lastmodified":1566647705,
     "wof:name":"Nepou",
     "wof:parent_id":85632473,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     165.1,
-    -21.366670000000006,
+    -21.36667000000001,
     165.1,
-    -21.366670000000006
+    -21.36667000000001
 ],
   "geometry": {"coordinates":[165.09999999999999,-21.36667000000001],"type":"Point"}
 }

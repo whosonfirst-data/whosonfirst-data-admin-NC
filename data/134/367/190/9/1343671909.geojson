@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"168.09667,-21.62,168.13667,-21.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kurin"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343671909,
-    "wof:lastmodified":1564207077,
+    "wof:lastmodified":1566647682,
     "wof:name":"Kurin",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",

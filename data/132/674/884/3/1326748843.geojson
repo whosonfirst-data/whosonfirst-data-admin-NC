@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"166.54874,-20.66969,166.58874,-20.62969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saint-Gabrielee",
         "Ouloup"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326748843,
-    "wof:lastmodified":1537674643,
+    "wof:lastmodified":1566647669,
     "wof:name":"Ouloup",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",

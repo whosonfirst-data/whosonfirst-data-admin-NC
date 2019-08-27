@@ -11,10 +11,14 @@
     "geom:longitude":164.7,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":2272,
+    "gn:population":2272,
     "iso:country":"NC",
+    "lbl:bbox":"164.68,-20.98667,164.72,-20.94667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Voh"
     ],
@@ -273,7 +277,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2137748,
-        "qs:id":278031,
+        "qs_pg:id":278031,
         "wd:id":"Q9757",
         "wk:page":"Voh"
     },
@@ -291,7 +295,7 @@
         }
     ],
     "wof:id":890432117,
-    "wof:lastmodified":1563315397,
+    "wof:lastmodified":1566647730,
     "wof:name":"Voh",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":165.23333,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":2283,
+    "gn:population":2283,
     "iso:country":"NC",
+    "lbl:bbox":"165.21333,-20.80333,165.25333,-20.76333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Touho"
     ],
@@ -234,7 +238,7 @@
     "name:tur_x_preferred":[
         "Touho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuho"
     ],
     "name:vec_x_preferred":[
@@ -277,7 +281,7 @@
     "wof:concordances":{
         "gn:id":2137873,
         "gp:id":90874676,
-        "qs:id":278032,
+        "qs_pg:id":278032,
         "wd:id":"Q9756",
         "wk:page":"Touho"
     },
@@ -295,7 +299,7 @@
         }
     ],
     "wof:id":890432119,
-    "wof:lastmodified":1563315396,
+    "wof:lastmodified":1566647730,
     "wof:name":"Touho",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

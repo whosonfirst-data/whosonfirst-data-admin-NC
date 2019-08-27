@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"164.49667,-20.35333,164.53667,-20.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242884101,
-    "wof:lastmodified":1536619999,
+    "wof:lastmodified":1566647734,
     "wof:name":"Saint-Gabriel",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

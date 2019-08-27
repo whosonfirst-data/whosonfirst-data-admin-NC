@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"166.81667,-22.46333,166.85667,-22.42333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ouara"
     ],
@@ -48,8 +52,7 @@
         "Ouara"
     ],
     "name:und_x_variant":[
-        "Uara",
-        "Ouara"
+        "Uara"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0627\u0631\u0627"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343780279,
-    "wof:lastmodified":1564207075,
+    "wof:lastmodified":1566647680,
     "wof:name":"Ouara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

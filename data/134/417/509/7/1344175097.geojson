@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"165.49667,-21.53667,165.53667,-21.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pon\u00e9o",
         "Pou\u00e9o"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344175097,
-    "wof:lastmodified":1537674642,
+    "wof:lastmodified":1566647683,
     "wof:name":"Poueo",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

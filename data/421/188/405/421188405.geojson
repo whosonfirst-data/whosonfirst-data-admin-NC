@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"166.61667,-20.4,166.61667,-20.4",
     "geom:latitude":-20.4,
     "geom:longitude":166.61667,
     "iso:country":"NC",
+    "lbl:bbox":"166.59667,-20.42,166.63667,-20.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NC",
     "qs:gn_fcode":"PPL",
@@ -40,11 +46,11 @@
     "wof:concordances":{
         "gn:id":2138126,
         "gp:id":1049565,
-        "qs:id":1096454
+        "qs_pg:id":1096454
     },
     "wof:country":"NC",
     "wof:created":1459009554,
-    "wof:geomhash":"dcc7a1a483b5df445c75f089e3665a45",
+    "wof:geomhash":"3093f50f9ebcaf7e975f77544d2de3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":421188405,
-    "wof:lastmodified":1466635867,
+    "wof:lastmodified":1566647726,
     "wof:name":"T\u00e9outa",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",

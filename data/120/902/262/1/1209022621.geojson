@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"165.06333,-20.77,165.10333,-20.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanguma",
         "Kongouma",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209022621,
-    "wof:lastmodified":1537674646,
+    "wof:lastmodified":1566647707,
     "wof:name":"Congouma",
     "wof:parent_id":85632473,
     "wof:placetype":"locality",

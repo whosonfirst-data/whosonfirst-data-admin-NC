@@ -10,8 +10,12 @@
     "geom:latitude":-20.23333,
     "geom:longitude":164.01667,
     "iso:country":"NC",
+    "lbl:bbox":"163.99667,-20.25333,164.03667,-20.21333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Poum"
@@ -232,7 +236,7 @@
     "name:tur_x_preferred":[
         "Poum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bou\u00e9manda"
     ],
     "name:vec_x_preferred":[
@@ -289,7 +293,7 @@
     "wof:concordances":{
         "gn:id":2138555,
         "gp:id":1049643,
-        "qs:id":1352190,
+        "qs_pg:id":1352190,
         "wd:id":"Q9745"
     },
     "wof:country":"NC",
@@ -305,7 +309,7 @@
         }
     ],
     "wof:id":421182667,
-    "wof:lastmodified":1563315388,
+    "wof:lastmodified":1566647727,
     "wof:name":"Poum",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

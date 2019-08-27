@@ -10,8 +10,12 @@
     "geom:latitude":-20.76667,
     "geom:longitude":167.1,
     "iso:country":"NC",
+    "lbl:bbox":"167.08,-20.78667,167.12,-20.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NC",
     "qs:gn_fcode":"PPL",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":2140978,
         "gp:id":1049680,
-        "qs:id":894719
+        "qs_pg:id":894719
     },
     "wof:country":"NC",
     "wof:created":1459009442,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":421185395,
-    "wof:lastmodified":1506729015,
+    "wof:lastmodified":1566647727,
     "wof:name":"Hunet\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
