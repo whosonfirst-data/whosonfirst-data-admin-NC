@@ -11,10 +11,14 @@
     "geom:longitude":165.4,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":2739,
+    "gn:population":2739,
     "iso:country":"NC",
+    "lbl:bbox":"165.38,-21.10333,165.42,-21.06333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Ponerihouen"
     ],
@@ -234,7 +238,7 @@
     "name:tur_x_preferred":[
         "Ponerihouen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poneriuen"
     ],
     "name:vec_x_preferred":[
@@ -276,7 +280,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2138687,
-        "qs:id":278041,
+        "qs_pg:id":278041,
         "wd:id":"Q9741",
         "wk:page":"Pon\u00e9rihouen"
     },
@@ -294,7 +298,7 @@
         }
     ],
     "wof:id":890430301,
-    "wof:lastmodified":1563315392,
+    "wof:lastmodified":1566647728,
     "wof:name":"Pon\u00e9rihouen",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

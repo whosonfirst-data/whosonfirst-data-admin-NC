@@ -11,10 +11,14 @@
     "geom:longitude":165.76667,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":480,
+    "gn:population":480,
     "iso:country":"NC",
+    "lbl:bbox":"165.74667,-21.68667,165.78667,-21.64667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Farino"
     ],
@@ -271,7 +275,7 @@
     "wof:concordances":{
         "gn:id":2141316,
         "gp:id":1049658,
-        "qs:id":572797,
+        "qs_pg:id":572797,
         "wd:id":"Q9713",
         "wk:page":"Farino"
     },
@@ -289,7 +293,7 @@
         }
     ],
     "wof:id":890445349,
-    "wof:lastmodified":1563315396,
+    "wof:lastmodified":1566647730,
     "wof:name":"Farino",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

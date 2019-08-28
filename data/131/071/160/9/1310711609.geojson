@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"165.74667,-21.35333,165.78667,-21.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koua"
     ],
@@ -36,8 +40,7 @@
         "Koua"
     ],
     "name:und_x_variant":[
-        "Kua",
-        "Koua"
+        "Kua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310711609,
-    "wof:lastmodified":1564207128,
+    "wof:lastmodified":1566647716,
     "wof:name":"Koua",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

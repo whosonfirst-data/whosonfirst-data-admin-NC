@@ -11,10 +11,14 @@
     "geom:longitude":165.33333,
     "gn:country":"NC",
     "gn:fcode":"PPL",
-    "gn:pop":4885,
+    "gn:population":4885,
     "iso:country":"NC",
+    "lbl:bbox":"165.31333,-20.95333,165.35333,-20.91333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Poindimi\u00e9"
     ],
@@ -271,7 +275,7 @@
     "wof:concordances":{
         "gn:id":2138717,
         "gp:id":1049646,
-        "qs:id":278042,
+        "qs_pg:id":278042,
         "wd:id":"Q9740",
         "wk:page":"Poindimi\u00e9"
     },
@@ -288,7 +292,7 @@
         }
     ],
     "wof:id":890430305,
-    "wof:lastmodified":1563315393,
+    "wof:lastmodified":1566647729,
     "wof:name":"Poindimi\u00e9",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

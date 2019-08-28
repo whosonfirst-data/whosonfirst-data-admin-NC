@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"163.63,-19.70333,163.67,-19.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pagarbi baim\u0117"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360202681,
-    "wof:lastmodified":1564207138,
+    "wof:lastmodified":1566647722,
     "wof:name":"Awe",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

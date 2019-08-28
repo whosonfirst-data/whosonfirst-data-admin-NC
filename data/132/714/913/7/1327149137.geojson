@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Noumea",
     "iso:country":"NC",
+    "lbl:bbox":"165.44667,-21.38667,165.48667,-21.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632473,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327149137,
-    "wof:lastmodified":1537086536,
+    "wof:lastmodified":1566647670,
     "wof:name":"Boreare",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":166.4572,
     "gn:country":"NC",
     "gn:fcode":"PPLC",
-    "gn:pop":93060,
+    "gn:population":93060,
     "iso:country":"NC",
+    "lbl:bbox":"166.4372,-22.29631,166.4772,-22.25631",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -290,7 +293,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port de France"
     ],
     "name:urd_x_preferred":[
@@ -418,7 +421,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2139521,
-        "qs:id":572771,
+        "qs_pg:id":572771,
         "wd:id":"Q9733",
         "wk:page":"Noum\u00e9a"
     },
@@ -436,7 +439,7 @@
         }
     ],
     "wof:id":890413117,
-    "wof:lastmodified":1563315390,
+    "wof:lastmodified":1566647728,
     "wof:name":"Noum\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

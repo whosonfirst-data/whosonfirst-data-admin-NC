@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-20.982171,
     "lbl:longitude":167.219855,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-20.982171,
     "mps:longitude":167.219855,
     "mz:hierarchy_label":1,
@@ -107,9 +108,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2015-01-01",
+    "src:population_date":"2015-01-01",
     "statoids:area_km":"1,981",
     "statoids:area_mi":"765",
     "statoids:as_of_date":"2015-01-01",
@@ -122,7 +123,6 @@
     "statoids:population":"43561",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632473,
@@ -134,7 +134,7 @@
         "gn:id":7521415,
         "gp:id":24549805,
         "hasc:id":"NC.IL",
-        "qs:id":212377
+        "qs_pg:id":212377
     },
     "wof:country":"NC",
     "wof:geomhash":"ab05b5e3bcc3f630f362fb3257f11acc",
@@ -154,11 +154,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565731278,
+    "wof:lastmodified":1566647685,
     "wof:name":"\u00celes Loyaut\u00e9",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":43561,
     "wof:population_rank":7,

@@ -11,10 +11,14 @@
     "geom:longitude":165.82764,
     "gn:country":"NC",
     "gn:fcode":"PPLA",
-    "gn:pop":2947,
+    "gn:population":2947,
     "iso:country":"NC",
+    "lbl:bbox":"165.80764,-21.73079,165.84764,-21.69079",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "La Foa"
     ],
@@ -109,7 +113,7 @@
         "\u0ab2\u0abe \u0aab\u0acb\u0a86"
     ],
     "name:hin_x_preferred":[
-        "\u0932\u093e  \u092b\u094b\u092f\u093e"
+        "\u0932\u093e \u092b\u094b\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "La Foa"
@@ -259,7 +263,7 @@
         "La Foa"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe  Foa"
+        "\u0bb2\u0bbe Foa"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2b\u0c4b\u0c2f\u0c3e"
@@ -316,7 +320,7 @@
     "wof:concordances":{
         "gn:id":2140466,
         "gp:id":1049642,
-        "qs:id":572787,
+        "qs_pg:id":572787,
         "wd:id":"Q9727",
         "wk:page":"La Foa"
     },
@@ -334,7 +338,7 @@
         }
     ],
     "wof:id":890413125,
-    "wof:lastmodified":1563315391,
+    "wof:lastmodified":1566647728,
     "wof:name":"La Foa",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",
