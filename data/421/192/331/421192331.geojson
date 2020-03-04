@@ -102,6 +102,9 @@
     },
     "wof:country":"NC",
     "wof:created":1459009733,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14bb9b625ca2bf66ab059555d028ede5",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421192331,
-    "wof:lastmodified":1566647726,
+    "wof:lastmodified":1582352229,
     "wof:name":"La Roche",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",
