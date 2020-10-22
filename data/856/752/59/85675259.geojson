@@ -9,7 +9,6 @@
     "geom:bbox":"165.11170241,-22.670668227,167.555186395,-21.3153394507",
     "geom:latitude":-21.875666,
     "geom:longitude":166.201621,
-    "gn:id":"",
     "iso:country":"NC",
     "label:eng_x_preferred_longname":[
         "Sud Province"
@@ -197,7 +196,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566647684,
+    "wof:lastmodified":1603258564,
     "wof:name":"Sud",
     "wof:parent_id":85632473,
     "wof:placetype":"region",

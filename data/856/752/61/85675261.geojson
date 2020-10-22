@@ -9,7 +9,6 @@
     "geom:bbox":"159.926117384,-21.6069495578,166.08231334,-19.1091447899",
     "geom:latitude":-20.887174,
     "geom:longitude":164.894642,
-    "gn:id":"",
     "iso:country":"NC",
     "label:eng_x_preferred_longname":[
         "Nord Province"
@@ -251,7 +250,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566647684,
+    "wof:lastmodified":1603258564,
     "wof:name":"Nord",
     "wof:parent_id":85632473,
     "wof:placetype":"region",

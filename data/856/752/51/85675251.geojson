@@ -9,7 +9,6 @@
     "geom:bbox":"166.390879754,-21.6584611957,168.144216343,-20.3834774715",
     "geom:latitude":-21.101666,
     "geom:longitude":167.437468,
-    "gn:id":"",
     "iso:country":"NC",
     "label:eng_x_preferred_longname":[
         "\u00celes Loyaut\u00e9 Province"
@@ -154,7 +153,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566647685,
+    "wof:lastmodified":1603258564,
     "wof:name":"\u00celes Loyaut\u00e9",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
