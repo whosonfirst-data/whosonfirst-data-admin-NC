@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"166.216111111,-22.0163888889,166.216111111,-22.0163888889",
+    "geom:bbox":"166.216111,-22.016389,166.216111,-22.016389",
     "geom:latitude":-22.016389,
     "geom:longitude":166.216111,
     "iso:country":"NC",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen La Tontouta"
+    ],
+    "name:eng_x_variant":[
+        "NOU",
+        "NWWW"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627 \u062a\u0646\u062a\u0648\u062a\u0627"
@@ -87,7 +91,7 @@
         "wd:id":"Q892783"
     },
     "wof:country":"NC",
-    "wof:geomhash":"99d90c2e252b16f050a688f8df7a70e4",
+    "wof:geomhash":"2a8410d1cf2eb6e31dd6a5c58ef7824e",
     "wof:hierarchy":[
         {
             "campus_id":102545869,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":102545869,
-    "wof:lastmodified":1566647677,
+    "wof:lastmodified":1631751567,
     "wof:name":"La Tontouta Airport",
     "wof:parent_id":85675259,
     "wof:placetype":"campus",
@@ -108,10 +112,10 @@
     ]
 },
   "bbox": [
-    166.21611111111,
-    -22.016388888889,
-    166.21611111111,
-    -22.016388888889
+    166.216111,
+    -22.016389,
+    166.216111,
+    -22.016389
 ],
-  "geometry": {"coordinates":[166.21611111111,-22.016388888889],"type":"Point"}
+  "geometry": {"coordinates":[166.21611100000001,-22.016389],"type":"Point"}
 }
