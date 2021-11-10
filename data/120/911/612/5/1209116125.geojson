@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Normandie"
     ],
+    "name:hun_x_preferred":[
+        "Normandia"
+    ],
+    "name:ind_x_preferred":[
+        "Normandie"
+    ],
     "name:ita_x_preferred":[
         "Normandie"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1209116125,
-    "wof:lastmodified":1566647708,
+    "wof:lastmodified":1636502258,
     "wof:name":"Normandie",
     "wof:parent_id":85632473,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:aym_x_preferred":[
         "Paita"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a4\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Paita"
     ],
@@ -44,14 +47,29 @@
     "name:deu_x_preferred":[
         "Paita"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03b9\u03c4\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Paita"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0907\u091f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Paita"
+    ],
     "name:ita_x_preferred":[
         "Paita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a4\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc774\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Paita"
@@ -71,8 +89,20 @@
     "name:spa_x_preferred":[
         "Paita"
     ],
+    "name:swe_x_preferred":[
+        "Paita"
+    ],
+    "name:tur_x_preferred":[
+        "Paita"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0439\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0626\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Paita"
     ],
     "name:war_x_preferred":[
         "Paita"
@@ -89,7 +119,7 @@
         "gn:id":2138982
     },
     "wof:country":"NC",
-    "wof:geomhash":"a6d11d3aee651bd94cfc37210f556650",
+    "wof:geomhash":"ef5e5f11452fe79b22d29b49405c85db",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -101,7 +131,7 @@
         }
     ],
     "wof:id":1327343489,
-    "wof:lastmodified":1566647671,
+    "wof:lastmodified":1636502257,
     "wof:name":"Paita",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",
@@ -111,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    164.41666999999995,
+    164.41667,
     -20.65,
-    164.41666999999995,
+    164.41667,
     -20.65
 ],
-  "geometry": {"coordinates":[164.41666999999995,-20.65],"type":"Point"}
+  "geometry": {"coordinates":[164.41667000000001,-20.65],"type":"Point"}
 }
