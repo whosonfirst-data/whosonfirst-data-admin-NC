@@ -43,6 +43,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u0993\u09ae\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u09ae\u09c7\u09af\u09bc\u09be"
+    ],
     "name:bos_x_preferred":[
         "Noum\u00e9a"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:ces_x_preferred":[
         "Noum\u00e9a"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u0443\u043c\u0435\u0430"
     ],
     "name:cym_x_preferred":[
         "Noum\u00e9a"
@@ -116,6 +122,12 @@
     "name:fry_x_preferred":[
         "Noum\u00e9a"
     ],
+    "name:gla_x_preferred":[
+        "Numea"
+    ],
+    "name:gle_x_preferred":[
+        "Noumea"
+    ],
     "name:glg_x_preferred":[
         "Noumea"
     ],
@@ -156,7 +168,8 @@
         "Noumea"
     ],
     "name:ita_x_variant":[
-        "Noum\u00e9a"
+        "Noum\u00e9a",
+        "Numea"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30e1\u30a2"
@@ -197,8 +210,14 @@
     "name:mkd_x_variant":[
         "\u041d\u0443\u043c\u0435\u0458\u0430"
     ],
+    "name:mlt_x_preferred":[
+        "Noum\u00e9a"
+    ],
     "name:mon_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "N\u016bmea"
     ],
     "name:msa_x_preferred":[
         "Noum\u00e9a"
@@ -230,6 +249,9 @@
     "name:por_x_preferred":[
         "Noum\u00e9a"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u0648\u0645\u06cc\u0627"
+    ],
     "name:ron_x_preferred":[
         "Noum\u00e9a"
     ],
@@ -257,6 +279,9 @@
     "name:sqi_x_preferred":[
         "Numea"
     ],
+    "name:srd_x_preferred":[
+        "Noum\u00e9a"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
     ],
@@ -277,6 +302,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4a\u0c2e\u0c47\u0c2f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0443\u043c\u0435\u0430"
     ],
     "name:tgl_x_preferred":[
         "Noum\u00e9a"
@@ -307,6 +335,9 @@
     ],
     "name:war_x_preferred":[
         "Noum\u00e9a"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52aa\u7f8e\u963f"
     ],
     "name:yue_x_preferred":[
         "\u52aa\u7f8e\u963f"
@@ -439,7 +470,7 @@
         }
     ],
     "wof:id":890413117,
-    "wof:lastmodified":1566647728,
+    "wof:lastmodified":1690848298,
     "wof:name":"Noum\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

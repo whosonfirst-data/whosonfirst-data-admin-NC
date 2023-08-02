@@ -58,6 +58,9 @@
     "name:deu_x_preferred":[
         "Touho"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Touho"
     ],
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":890432119,
-    "wof:lastmodified":1566647730,
+    "wof:lastmodified":1690848301,
     "wof:name":"Touho",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

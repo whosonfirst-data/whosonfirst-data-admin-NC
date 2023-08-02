@@ -262,6 +262,9 @@
     "name:wol_x_preferred":[
         "Dumb\u00e9a"
     ],
+    "name:zho_x_preferred":[
+        "\u4e39\u8d1d\u963f"
+    ],
     "name:zul_x_preferred":[
         "Dumb\u00e9a"
     ],
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":1125987715,
-    "wof:lastmodified":1566647731,
+    "wof:lastmodified":1690848302,
     "wof:name":"Dumb\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

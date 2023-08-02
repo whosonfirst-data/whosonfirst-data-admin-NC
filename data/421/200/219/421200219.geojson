@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "Ou\u00e9goa"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03b3\u03ba\u03bf\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Ou\u00e9goa"
     ],
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":421200219,
-    "wof:lastmodified":1566647726,
+    "wof:lastmodified":1690848297,
     "wof:name":"Ou\u00e9goa",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

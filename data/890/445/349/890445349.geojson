@@ -58,6 +58,9 @@
     "name:deu_x_preferred":[
         "Farino"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03b9\u03bd\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Farino"
     ],
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":890445349,
-    "wof:lastmodified":1566647730,
+    "wof:lastmodified":1690848301,
     "wof:name":"Farino",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

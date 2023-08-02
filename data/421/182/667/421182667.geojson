@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "Poum"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Poum"
     ],
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":421182667,
-    "wof:lastmodified":1566647727,
+    "wof:lastmodified":1690848298,
     "wof:name":"Poum",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

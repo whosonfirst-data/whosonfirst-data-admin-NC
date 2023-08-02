@@ -58,6 +58,9 @@
     "name:deu_x_preferred":[
         "Pou\u00e9bo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03b5\u03bc\u03c0\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Pou\u00e9bo"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":890430299,
-    "wof:lastmodified":1566647729,
+    "wof:lastmodified":1690848300,
     "wof:name":"Pou\u00e9bo",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

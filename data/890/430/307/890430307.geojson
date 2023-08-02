@@ -58,6 +58,9 @@
     "name:deu_x_preferred":[
         "Pa\u00efta"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ca\u03c4\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Pa\u00efta"
     ],
@@ -265,6 +268,9 @@
     "name:zho_x_preferred":[
         "\u76ae\u4e9e\u5854"
     ],
+    "name:zho_x_variant":[
+        "\u5e15\u4f0a\u5854"
+    ],
     "name:zul_x_preferred":[
         "Pa\u00efta"
     ],
@@ -302,7 +308,7 @@
         }
     ],
     "wof:id":890430307,
-    "wof:lastmodified":1566647728,
+    "wof:lastmodified":1690848299,
     "wof:name":"Pa\u00efta",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",
