@@ -58,6 +58,9 @@
     "name:deu_x_preferred":[
         "Sarram\u00e9a"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bc\u03b5\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Sarram\u00e9a"
     ],
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":890413121,
-    "wof:lastmodified":1566647728,
+    "wof:lastmodified":1690848298,
     "wof:name":"Sarram\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

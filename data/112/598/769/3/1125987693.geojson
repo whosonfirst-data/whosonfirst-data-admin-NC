@@ -61,6 +61,9 @@
     "name:deu_x_preferred":[
         "Houa\u00eflou"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b1\u03ca\u03bb\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Houa\u00eflou"
     ],
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":1125987693,
-    "wof:lastmodified":1566647731,
+    "wof:lastmodified":1690848302,
     "wof:name":"Houa\u00eflou",
     "wof:parent_id":85675261,
     "wof:placetype":"locality",

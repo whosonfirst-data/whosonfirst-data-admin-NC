@@ -62,6 +62,9 @@
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03b2\u03ad\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03b2\u03b5\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Ouv\u00e9a"
     ],
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":421178327,
-    "wof:lastmodified":1566647727,
+    "wof:lastmodified":1690848297,
     "wof:name":"Fayaou\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

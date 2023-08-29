@@ -238,6 +238,9 @@
     "name:swe_x_preferred":[
         "Bouloupari"
     ],
+    "name:swe_x_variant":[
+        "Boulouparis"
+    ],
     "name:tur_x_preferred":[
         "Bouloupari"
     ],
@@ -264,6 +267,9 @@
     ],
     "name:wol_x_preferred":[
         "Bouloupari"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5362\u5e15\u91cc"
     ],
     "name:zul_x_preferred":[
         "Bouloupari"
@@ -302,7 +308,7 @@
         }
     ],
     "wof:id":890452727,
-    "wof:lastmodified":1566647729,
+    "wof:lastmodified":1690848300,
     "wof:name":"Bouloupari",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

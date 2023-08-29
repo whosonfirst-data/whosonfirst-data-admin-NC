@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "Thio"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Thio"
     ],
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421201933,
-    "wof:lastmodified":1566647727,
+    "wof:lastmodified":1690848297,
     "wof:name":"Thio",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",
