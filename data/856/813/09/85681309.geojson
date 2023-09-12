@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1514430.245253,
+    "geom:area_square_m":1514419.922246,
     "geom:bbox":"158.312999,-22.400165,172.059339,-19.854343",
     "geom:latitude":-20.346266,
     "geom:longitude":160.898915,
     "iso:country":"NC",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":-19.864295,
     "lbl:longitude":158.322395,
     "lbl:min_zoom":8.0,
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"NC",
-    "wof:geomhash":"03ac25b6eadb517afe878c0e4986d99f",
+    "wof:geomhash":"a98d1ec7312a727ccca0410ec7ea6a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -64,7 +67,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1694493127,
     "wof:name":"Minor islands of New Caledonia",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
