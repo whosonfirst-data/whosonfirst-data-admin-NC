@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.834756,
-    "geom:area_square_m":9643375665.903708,
+    "geom:area_square_m":9643376031.349968,
     "geom:bbox":"159.926117,-21.60695,166.082313,-19.109145",
     "geom:latitude":-20.887174,
     "geom:longitude":164.894642,
@@ -248,8 +248,9 @@
         "hasc:id":"NC.NO",
         "qs_pg:id":212378
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NC",
-    "wof:geomhash":"27879fcc4ce3d01b54c96bf7ffc4f991",
+    "wof:geomhash":"b8f6ee3ad216b6a4339702a177cd64ec",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -266,7 +267,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502257,
+    "wof:lastmodified":1695884927,
     "wof:name":"Nord",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
