@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175275,
-    "geom:area_square_m":2021939408.931187,
+    "geom:area_square_m":2021939408.930948,
     "geom:bbox":"166.390879754,-21.6584611957,168.144216343,-20.3834774715",
     "geom:latitude":-21.101666,
     "geom:longitude":167.437468,
@@ -136,8 +136,9 @@
         "hasc:id":"NC.IL",
         "qs_pg:id":212377
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NC",
-    "wof:geomhash":"ab05b5e3bcc3f630f362fb3257f11acc",
+    "wof:geomhash":"86fb22c3ed3fa31e44417420f818a592",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -154,7 +155,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566647685,
+    "wof:lastmodified":1695884327,
     "wof:name":"\u00celes Loyaut\u00e9",
     "wof:parent_id":85632473,
     "wof:placetype":"region",

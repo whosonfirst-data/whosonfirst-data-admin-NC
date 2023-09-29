@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.639028,
-    "geom:area_square_m":7332646610.193066,
+    "geom:area_square_m":7332645933.618298,
     "geom:bbox":"165.111702,-22.670668,167.555186,-21.315339",
     "geom:latitude":-21.875666,
     "geom:longitude":166.201621,
@@ -188,8 +188,9 @@
         "hasc:id":"NC.SU",
         "qs_pg:id":888225
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NC",
-    "wof:geomhash":"5933f33412547e3962c47b60e1b20203",
+    "wof:geomhash":"13c04a0864cef6c89bb440491d907e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -206,7 +207,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502257,
+    "wof:lastmodified":1695884927,
     "wof:name":"Sud",
     "wof:parent_id":85632473,
     "wof:placetype":"region",
